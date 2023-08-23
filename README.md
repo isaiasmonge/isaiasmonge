@@ -26,7 +26,7 @@ Apasionado científico de datos enfocado en el procesamiento de datos, la visual
 - ![Power BI](https://img.shields.io/badge/-Power%20BI-blue)
 - ![Excel](https://img.shields.io/badge/-Excel-green)
 
-
+ - r fa_rocket(colour = "#1FA67A") + r fa_r_project(colour = "#384CB7") = r fa_heart(colour = "red")
 ## Habilidades
 
 - :bar_chart: Análisis de Datos

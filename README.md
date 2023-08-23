@@ -17,4 +17,4 @@ Apasionado científico de datos enfocado en el procesamiento de datos, la visual
 
 ### Habilidades
 
-`r fa_rocket(colour = "#1FA67A")` + `r fa_r_project(colour = "#384CB7")` = `r fa_heart(colour = "red")`
+    r fa_rocket(colour = "#1FA67A")` + `r fa_r_project(colour = "#384CB7")` = `r fa_heart(colour = "red")
